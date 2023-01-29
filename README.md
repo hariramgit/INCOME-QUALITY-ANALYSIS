@@ -26,10 +26,9 @@ The Inter-American Development Bank (IDB)believes that new methods beyond tradit
 
 
 ## Find the datasets here 
-- test datasets  test data---Dataset for the project- income qualification.csv
-- train datasets  train data---Dataset for the project- income qualification.csv
-- Find the data dictionary here data dictionary for the income qualification project description.pdf
-
+- test datasets  test data--https://github.com/hariramgit/INCOME-QUALITY-ANALYSIS/blob/master/test%20data---Dataset%20for%20the%20project-%20income%20qualification.csv
+- train datasets  train data--https://github.com/hariramgit/INCOME-QUALITY-ANALYSIS/blob/master/train%20data---Dataset%20for%20the%20project-%20income%20qualification.csv
+- Find the data dictionary here-- https://github.com/hariramgit/INCOME-QUALITY-ANALYSIS/blob/master/data%20dictionary%20for%20the%20income%20qualification%20project%20description.pdf
 
 ## 👩‍💻 Libraries used
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
